@@ -1,2 +1,1 @@
-# PrepcourseHenry
-Repositorio de prueba del modulo 2
+Este proyecto es una prueba de como duplicar en git bash
